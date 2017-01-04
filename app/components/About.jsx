@@ -4,7 +4,7 @@ var {Link} = require('react-router');
 var About = (props) => {
     return (
         <div>
-            <h1 className="text-center">About</h1>
+            <h1 className="text-center page-title">About</h1>
             <p>
                 This is a tutorial project used for demonstrating
                 how to properly utilize React and Redux inside a Webpack
